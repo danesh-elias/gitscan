@@ -2,3 +2,4 @@ venv
 .swp
 email.lst
 ignore
+__pycache__
